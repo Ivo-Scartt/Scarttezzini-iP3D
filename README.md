@@ -12,3 +12,4 @@ Tengo un e-commerce de impresiones 3D y mi publico es diverso
 - #235558
 + #0DB6A3
 ## Logo 
+![Logo de mi e-commerce](https://github.com/Ivo-Scartt/Scarttezzini-iP3D/blob/a515e549123334fddac8678167a73fefa01a2149/Logo%20e-commerce.png)
