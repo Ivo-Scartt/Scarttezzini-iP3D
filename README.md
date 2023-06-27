@@ -10,6 +10,15 @@
  Te invitamos a explorar nuestro catálogo de productos ya impresos y descubrir la amplia variedad de opciones disponibles; y ya sea que estés buscando un regalo único y significativo o deseas materializar tus propias ideas y diseños, estamos aquí para ayudarte a convertir tu imaginación en realidad.
 
  ¡Gracias por unirte a nosotros en esta emocionante aventura! Estamos ansiosos por colaborar contigo y ayudarte a obtener productos impresos en 3D únicos y personalizados que te brinden satisfacción y alegría.
+### Algunos de nuestros productos:
++ Llaveros
++ Abridores de botellas
++ Macetitas
++ Organizador de escritorio
++ Portatarjetas
++ Juguetes articulados
++ Marcapáginas
++ **¡Tu propio diseño!**
 ## Público objetivo
 Tengo un e-commerce de impresiones 3D y mi publico es diverso
 ## Tipografía principal
